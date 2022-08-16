@@ -1,5 +1,4 @@
 # 프로젝트 소개
-
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/66675699/180681932-cf47ff6c-718a-464c-b40b-06e437539264.gif)
 
 ## 프로젝트명 'DREAM'
