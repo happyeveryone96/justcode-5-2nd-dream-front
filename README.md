@@ -107,6 +107,32 @@
 - 마이 페이지 API
 - 구매 / 판매 페이지 API
 
+## Convention
+- Git | branch Convention
+    - feature/기능명
+    - camelCase
+    - ex) feature/productDetail, feature/login
+    
+- Git | Commit
+    - Add: 기능을 추가할 때
+    - Fix: 기능을 수정,개선할 때, 버그수정
+    - Modify: 스타일 수정
+    - Rename: 파일, 폴더명, 브랜치명 수정
+    - Remove: 기능/파일 삭제
+    - Refactor: 코드 리팩토링
+    - 커밋단위 : 깃허브 issue 체크박스 완료시
+    - PL: 티켓 완료시
+         
+- File | Naming Convention
+  - UI 컴포넌트: Pascal Case
+  - SCSS(className) : snake_case 
+  - ex )
+  ```jsx
+  className={css.logo_desc}
+  ```
+  - 그 외: hyphen-case
+  - JS : camelCase
+
 ## Reference
 
 이 프로젝트는 크림 사이트를 참조하여 학습목적으로 만들었습니다.
