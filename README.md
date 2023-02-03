@@ -17,10 +17,10 @@
 
 ## 적용 기술
 
-- DB : mySQL, Prisma, DB-diagram
-- FE : HTML, JAVASCRIPT, REACT, SCSS, STYLED-COMPONENTS
+- DB : MySQL, Prisma, 
+- FE : HTML, JavaScript, React.js, SCSS, Styled-Components
 - BE : Node.js, Express.js, bcrypt, jsonwebtoken
-- 공통 : RESTful API, MVC Pattern, Github, Slack, Notion
+- etc : RESTful API, DB-diagram
 
 ### 협업 도구
 
@@ -66,8 +66,11 @@
  
  <img width="500"  height="350" alt="스크린샷 2022-07-23 오후 9 23 10" src="https://user-images.githubusercontent.com/66675699/180682883-a0bc0acf-c205-4c67-b14f-37c9fd4b805e.png">
 </div>
+<br>
 
-- react-slick을 활용한 슬라이더 구현
+- react-slick을 활용한 슬라이더 구현 
+
+<br>
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/66675699/180682591-562698be-6dae-4854-9976-1c06b9f66820.gif)
 
@@ -77,6 +80,7 @@
 - useState와 useEffect 훅을 활용해 체크 박스 체크 여부 확인 기능 구현
 - 페이지 이동 시 구매 및 판매에 필요한 정보들을
   state로 넘겨주는 기능 구현<br>
+  
   ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/66675699/180681576-6d815391-1f7c-49d7-aa50-933d9c2b761a.gif)
   ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/66675699/180681790-b1a9427f-1284-44f7-9121-d0cbaaf0597e.gif)
 
