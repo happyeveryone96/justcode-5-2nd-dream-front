@@ -107,6 +107,8 @@
 - 마이 페이지 API
 - 구매 / 판매 페이지 API
 
+<br><br>
+
 ## Convention
 - Git | branch Convention
     - feature/기능명
